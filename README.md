@@ -1,7 +1,7 @@
-# TATA-DATA-VISUALIZATION-JOB-SIMULATION PROJECT
+# DATA-VISUALIZATION-JOB-SIMULATION PROJECT
 
 ## Overview
-Developed an interactive Power BI dashboard as part of the Tata Data Visualization Job Simulation on Forage. The project focused on transforming business data into actionable insights to support strategic decision-making.
+Developed an interactive Power BI dashboard as part of the Data Visualization Job Simulation on Forage. The project focused on transforming business data into actionable insights to support strategic decision-making.
 
 ## Tools Used
 - Power BI

@@ -1,4 +1,4 @@
-📊 Online Retail Sales Performance Analysis
+📊 Online Retail Sales Analysis
 
 🎯 Project Objective
 

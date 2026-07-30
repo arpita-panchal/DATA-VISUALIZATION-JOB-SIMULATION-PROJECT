@@ -29,7 +29,6 @@ Designed and developed four interactive Power BI dashboards to visualize key bus
 🛠️ Tools Used
 
 Power BI
-
 Microsoft Excel
 
 📈 Key Insights
